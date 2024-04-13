@@ -8,7 +8,7 @@ function App(props) {
     <Main>
       <Container>
         <Title>Bulb</Title>
-        <img src="../public/download.png" alt="" />
+        <img src="https://www.starrynight.co.in/cdn/shop/products/segula_art_line_globe_uit_0158-2017_web_1200x.jpg?v=1601366950" alt="" />
         {
           light && <Light/>
         }
